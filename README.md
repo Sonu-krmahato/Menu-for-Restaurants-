@@ -1,1 +1,2 @@
-# Menu-for-Restaurants-
+# Menu-of-Restaurants-
+This is a simple Python script designed for a restaurant to take and calculate customer orders. The script starts by displaying a menu with the available items and their corresponding prices. The customer is greeted and prompted to order an item by name. If the item is available, it is added to the order total. The customer is then asked if they would like to order another item, and if they do, the process repeats. Finally, the script displays the total amount the customer needs to pay for their order.
